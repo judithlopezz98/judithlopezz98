@@ -1,6 +1,21 @@
-# Hi, I’m Judith Lopez
+# Judith Lopez
 
-Product Designer building AI-powered products, SaaS, and developer tools. I’m interested in the space where thoughtful product design, code, and AI meet.
+**Product Designer | AI Products · DevTools · CI/CD · Enterprise SaaS**
+
+> I turn complexity into interfaces that feel obvious.
+
+I design end-to-end product experiences for people working in dense, technical workflows: engineers, platform teams, support operations, and product teams. My practice spans product discovery, research, information architecture, interaction design, prototyping, validation, and close collaboration through implementation.
+
+## Selected impact
+
+- Designed AI-powered workflows at Lang.ai that cut ticket resolution time by **20%**.
+- Built a design system at Lang.ai that improved team delivery speed by **25%**.
+- Designed a scalable Jenkins integration experience at CloudBees for enterprise teams managing **100+ controllers**.
+- Explored AI-powered dashboards that turn CI/CD and engineering data into actionable insight.
+
+## Focus areas
+
+AI product design · Developer experience · DevTools · CI/CD · Enterprise SaaS · Complex workflows · Design systems · Accessibility
 
 ## Featured work
 
