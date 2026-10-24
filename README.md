@@ -30,3 +30,4 @@ An interactive mobile prototype for planning shifts, sleep, and recovery around 
 - [Portfolio](https://judithlopezportfolio.framer.website/)
 - [LinkedIn](https://www.linkedin.com/in/judithlopez12/)
 - [Medium](https://medium.com/@judithlopezrubio)
+- [Fiverr](https://es.fiverr.com/judithlopez1698?public_mode=true)
